@@ -10,7 +10,7 @@
 
 **A few projects**
 
-- 🎓 [siakad](https://github.com/fasyaziyan/siakad) — Academic information system built with Laravel, [live demo](https://siakad-lyart.vercel.app)
+- 🎓 [siakad](https://github.com/fasyaziyan/siakad) — Academic information system built with Laravel
 - 🎮 [reactGameBoard](https://github.com/fasyaziyan/reactGameBoard) — interactive game board built with React
 - 📚 [reactfundamental](https://github.com/fasyaziyan/reactfundamental) — React fundamentals practice
 
